@@ -9,7 +9,7 @@ My name is Jabin Jeong !
 
 🎓 **Education**
 
-Graduated from Dongduk Women's University with a degree in Library and Information Science and Computer Science.
+I majored in LIS and CS.
 
 📘 **Learning in Progress**
 
