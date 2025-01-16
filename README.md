@@ -13,7 +13,7 @@ I majored in LIS and CS.
 
 📘 **Learning in Progress**
 
-Currently studying software development at Samsung Software Academy for Youth (SSAFY) to become a professional developer.
+ Currently learning as I work towards becoming a developer.
 
 🌟 I'm eager to gain more hands-on programming experience and build meaningful connections in the tech industry.
 
