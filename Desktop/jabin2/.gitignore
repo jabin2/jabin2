@@ -1,10 +1,22 @@
+# System files and folders
 *.lnk
 *.tmp
 *.exe
-*.jpg
-*.png
-*.pdf
+*.log
+*.ini
 AppData/
 Desktop/
-Downloads/
 Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.class
+
+# Hidden files
+.DS_Store
+*.swp
