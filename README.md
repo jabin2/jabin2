@@ -3,7 +3,7 @@
 ## 🧑‍💻 개인 정보
 
 - **이름:** 정자빈
-- **이메일:** [iland97@naver.com](mailto:iland97@naver.com)
+- **이메일:** [ ]
 - **GitHub:** [https://github.com/jabin2](https://github.com/jabin2)
 
 ---
