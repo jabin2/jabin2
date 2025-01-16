@@ -23,4 +23,4 @@ Currently studying software development at Samsung Software Academy for Youth (S
 
 ### Languages and Tools
 
-- **🛠️Languages**
+ **🛠️Languages**
