@@ -1,0 +1,10 @@
+*.lnk
+*.tmp
+*.exe
+*.jpg
+*.png
+*.pdf
+AppData/
+Desktop/
+Downloads/
+Documents/
